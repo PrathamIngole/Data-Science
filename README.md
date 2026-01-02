@@ -20,16 +20,18 @@ This repository documents my learning journey in **Data Science with AI**.
     - Maintain structured notes and code
 
 ## Repository Structure
-
+```
 Data-Science/
     ├── python/
     │ ├── basics/
+    | |__Conditional/
+    | |
     │ ├── recursion/
     │ └── README.md
     ├── sql/
     ├── algorithms/ 
     └── README.md
 
-
+```
 ## Goal
 To build strong fundamentals, practice problem-solving, and learn in public.
