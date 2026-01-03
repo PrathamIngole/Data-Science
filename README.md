@@ -24,9 +24,8 @@ This repository documents my learning journey in **Data Science with AI**.
 Data-Science/
     ├── python/
     │ ├── basics/
-    | |__Conditional/
-    | |
-    │ ├── recursion/
+    | ├── Conditional/
+    │ ├── Recursion/
     │ └── README.md
     ├── sql/
     ├── algorithms/ 
