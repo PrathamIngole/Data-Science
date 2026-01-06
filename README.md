@@ -25,6 +25,7 @@ Data-Science/
     ├── python/
     │ ├── basics/
     | ├── Conditional/
+    | ├── Loops/
     │ ├── Recursion/
     │ └── README.md
     ├── sql/
