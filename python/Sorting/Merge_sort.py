@@ -60,3 +60,12 @@ print("\n sorting please wait....")
 mergeSort(arr, 0, len(arr)-1)
 
 print("\nafter sorting array : ", arr)
+
+
+# output :-
+
+# before sorting :  [8, 2, 5, 2, 9, 0, 1, 4, 7, 6, 3]
+
+#  sorting please wait....
+
+# after sorting array :  [0, 1, 2, 2, 3, 4, 5, 6, 7, 8, 9]
