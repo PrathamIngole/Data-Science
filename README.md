@@ -26,6 +26,7 @@ Data-Science/
     │ ├── basics/
     | ├── Conditional/
     | ├── Loops/
+    | ├── Sorting/
     │ ├── Recursion/
     │ └── README.md
     ├── sql/
